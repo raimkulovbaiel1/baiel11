@@ -1,0 +1,20 @@
+@import url(../assets/components/header.css);
+@import url(../assets/components/base.css);
+@import url(../assets/components/projects.css);
+@import url(../assets/components/redline.css);
+@import url(../assets/components/jobs.css);
+@import url(../assets/components/partners.css);
+@import url(../assets/components/answers.css);
+@import url(../asset./componentss/reviews.css);
+@import url(../assets/components/contacts.css);
+@import url(../assets/components/footer.css);
+@import url(../assets/components/media.css);
+.is-none{
+    opacity: 0;
+    height: 0px;
+}
+.space-btwn{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
